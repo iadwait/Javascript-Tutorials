@@ -8,3 +8,4 @@ tut6.js -> Tutorial 6 - Properties , Methods & Template Literals<br/>
 tut7.js -> Tutorial 7 - Arrays and Objects<br/>
 tut8.js -> Tutorial 8 - If Else , If Else ElseIF and Switch Statement<br/>
 tut9.js -> Tutorial 9 - Loops (For, while and Do While Loops), Break, Continue, Loops with Objects<br/>
+tut10.js -> Tutorial 10 - Functions and Scope<br/>
