@@ -1,4 +1,4 @@
-// Tutorial 3
+// Tutorial 3 - Variables (var , let , const)
 console.log('Tut 3 - Variables ( var , let , const)');
 
 //Variables var , let , const

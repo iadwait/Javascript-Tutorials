@@ -1,4 +1,4 @@
-// Tutorial 2
+// Tutorial 2 (console.log and it's uses)
 console.log('Tut 2 - Console.log, Errors , Warnings , Debugging');
 console.time('Code Execution Time');
 console.log('Hello World');
