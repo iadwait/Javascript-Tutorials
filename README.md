@@ -10,3 +10,4 @@ tut8.js -> Tutorial 8 - If Else , If Else ElseIF and Switch Statement<br/>
 tut9.js -> Tutorial 9 - Loops (For, while and Do While Loops), Break, Continue, Loops with Objects<br/>
 tut10.js -> Tutorial 10 - Functions and Scope<br/>
 tut11.js -> Tutorial 11 - DOM,Window object,Alert,Prompt,confirm,Location,etc...<br/>
+tut12.js -> Tutorial 12 - Understanding DOM and creating Website layout<br/>
