@@ -1,4 +1,4 @@
-// Tutorial 13 - Exercise - Fetch all links from a webpage and display only links that contains keyword "Javascrit"
+// Tutorial 13 - Exercise - Fetch all links from a webpage and display only links that contains keyword "Javascript"
 
 console.log('Tut 13');
 
