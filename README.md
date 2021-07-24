@@ -14,3 +14,4 @@ tut12.js -> Tutorial 12 - Understanding DOM and creating Website layout<br/>
 tut13.js -> Tutorial 13 - Exercise - Fetch all links from a webpage and display only links that contains keyword "Javascript"<br/>
 tut14.js -> Tutorial 14 - HTML Element Selectors<br/>
 tut15.js -> Tutorial 15 - Children,Parent & Traversing the DOM<br/>
+tut16.js -> Tutorial 16 - Creating,Removing & Replacing Elements in JS<br/>
