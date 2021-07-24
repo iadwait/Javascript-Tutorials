@@ -11,3 +11,4 @@ tut9.js -> Tutorial 9 - Loops (For, while and Do While Loops), Break, Continue, 
 tut10.js -> Tutorial 10 - Functions and Scope<br/>
 tut11.js -> Tutorial 11 - DOM,Window object,Alert,Prompt,confirm,Location,etc...<br/>
 tut12.js -> Tutorial 12 - Understanding DOM and creating Website layout<br/>
+tut13.js -> Tutorial 13 - Exercise - Fetch all links from a webpage and display only links that contains keyword "Javascrit"<br/>
