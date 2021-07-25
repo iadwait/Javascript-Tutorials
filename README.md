@@ -17,3 +17,4 @@ tut15.js -> Tutorial 15 - Children,Parent & Traversing the DOM<br/>
 tut16.js -> Tutorial 16 - Creating,Removing & Replacing Elements in JS<br/>
 tut17.js -> Tutorial 17 - Events & Event Object<br/>
 tut18.js -> Tutorial 18 - More JS Events(Single Click, Double Click, mousedown, mouseenter, mouseleave, mousemove)<br/>
+tut19.js -> // Tutorial 19 - Exercise 1 Solution (Tutorial 13)<br/>
