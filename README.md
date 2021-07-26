@@ -19,3 +19,4 @@ tut17.js -> Tutorial 17 - Events & Event Object<br/>
 tut18.js -> Tutorial 18 - More JS Events(Single Click, Double Click, mousedown, mouseenter, mouseleave, mousemove)<br/>
 tut19.js -> Tutorial 19 - Exercise 1 Solution (Tutorial 13)<br/>
 tut20.js -> Tutorial 20 - Local Storage & Session Storage<br/>
+tut23.js -> Tutorial 23 - Math Object and it's Functions<br/>
