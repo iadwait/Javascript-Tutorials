@@ -21,3 +21,6 @@ tut19.js -> Tutorial 19 - Exercise 1 Solution (Tutorial 13)<br/>
 tut20.js -> Tutorial 20 - Local Storage & Session Storage<br/>
 tut23.js -> Tutorial 23 - Math Object and it's Functions<br/>
 tut24.js -> Tutorial 24 - Date Object - Date and Time in Javascript<br/>
+tut25.js -> Tutorial 25 - You have to Create a Div and inject it into a Page which contains a heading.
+Whenever someone clicks on the Div it should be converted into an Editable item.
+Whenever user clicks away(blur). Save the content into Local Storage.<br/>
