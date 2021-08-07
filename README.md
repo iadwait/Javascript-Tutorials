@@ -26,3 +26,4 @@ Whenever someone clicks on the Div it should be converted into an Editable item.
 Whenever user clicks away(blur). Save the content into Local Storage.<br/>
 tut27.js -> Tutorial 27 - Object Literals,Constructors and Object Oriented Javascript<br/>
 tut28.js -> Tutorial 28 - Object Prototype In javascript<br/>
+tut30.js -> Tutorial 30 - Prototype Inheritance<br/>
