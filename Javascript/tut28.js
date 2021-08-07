@@ -2,8 +2,10 @@
 
 console.log('This is tut 28');
 
-// Prototype are basically inbuilt functions that you can use, you can even add new methods to prototype
+// Prototype are basically inbuilt functions that you can use, you can even add new methods to prototypeed
 
+// Object created using object literal inherit from object prototype while objects createated from constructor ingherit from constructor itself
+// object literal: object prototype 
 let obj = {
     name: "This is Object",
     color: "Yellow Color"
