@@ -13,6 +13,7 @@ let obj = {
 
 console.log(obj);
 
+// CreateObj : object prototype
 function createObj(givenName){
     this.name = givenName;
 }
