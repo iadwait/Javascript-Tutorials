@@ -24,3 +24,4 @@ tut24.js -> Tutorial 24 - Date Object - Date and Time in Javascript<br/>
 tut25.js -> Tutorial 25 - You have to Create a Div and inject it into a Page which contains a heading.
 Whenever someone clicks on the Div it should be converted into an Editable item.
 Whenever user clicks away(blur). Save the content into Local Storage.<br/>
+tut27.js -> Tutorial 27 - Object Literals,Constructors and Object Oriented Javascript<br/>
