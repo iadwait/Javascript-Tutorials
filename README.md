@@ -28,3 +28,4 @@ tut27.js -> Tutorial 27 - Object Literals,Constructors and Object Oriented Javas
 tut28.js -> Tutorial 28 - Object Prototype In javascript<br/>
 tut30.js -> Tutorial 30 - Prototype Inheritance<br/>
 tut31.js -> Tutorial 31 - Classes and Inheritance in Javascript<br/>
+tut32.js -> Tutorial 32 - Exercise on Classes and Inheritance<br/>
